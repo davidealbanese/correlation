@@ -1,4 +1,4 @@
-## This code is written by Davide Albanese, <albanese@fbk.eu>
+## This code is written by Davide Albanese <davide.albanese@gmail.com>
 ## Copyright (C) 2013 Davide Albanese
 
 ## This program is free software: you can redistribute it and/or modify
